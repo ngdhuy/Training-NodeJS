@@ -10,7 +10,7 @@
     * Setup ExpressJS
         * Intall with terminal command
         ```bash
-        $npm install -g express
+        $ npm install -g express
         ```
 
 2. Basic Program
