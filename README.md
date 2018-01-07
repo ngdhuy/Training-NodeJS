@@ -9,9 +9,9 @@
         * Download from [https://nodejs.org](https://nodejs.org)
     * Setup ExpressJS
         * Intall with terminal command
-```bash
-$ npm install -g express
-```
+        ```bash
+        $npm install -g express
+        ```
 
 2. Basic Program
     * HTTP Methodes
