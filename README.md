@@ -9,7 +9,7 @@
         * Download from [https://nodejs.org](https://nodejs.org)
     * Setup ExpressJS
         * Intall with terminal command
-```shell
+```bash
 $ npm install -g express
 ```
 
