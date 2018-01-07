@@ -5,13 +5,13 @@
 ## ExpressJS ##
 
 1. Development evironment setup
-* Setup NodeJS
-    * Download from [https://nodejs.org](https://nodejs.org)
-* Setup ExpressJS
-    * Intall with terminal command
-    ```shell
-    $ npm install -g express
-    ```
+    * Setup NodeJS
+        * Download from [https://nodejs.org](https://nodejs.org)
+    * Setup ExpressJS
+        * Intall with terminal command
+```shell
+$ npm install -g express
+```
 
 2. Basic Program
     * HTTP Methodes
